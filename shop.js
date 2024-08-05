@@ -1,3 +1,4 @@
+// Basic shopping site
 const productDOM = document.querySelector(".product__center");
 const cartDOM = document.querySelector(".cart");
 const cartContent = document.querySelector(".cart__centent");
